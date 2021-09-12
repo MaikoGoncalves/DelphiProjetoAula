@@ -17,6 +17,8 @@ type
     Edit1: TEdit;
     Button1: TButton;
     ListBox1: TListBox;
+    BalloonHint1: TBalloonHint;
+    ImageList2: TImageList;
     procedure Colar1Click(Sender: TObject);
     procedure ButtonedEdit1RightButtonClick(Sender: TObject);
     procedure Copiar1Click(Sender: TObject);
